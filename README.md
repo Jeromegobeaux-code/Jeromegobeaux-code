@@ -1,4 +1,6 @@
 ## Hi there 👋
+The name's Jérôme. I'm a young graduate of a master in Transmédia Writing. In search of new challenges, I'm trying to make my first step in programming. And so this GitHub is there to serv as a archive to showcase my evolution.
+
 
 <!--
 **Jeromegobeaux-code/Jeromegobeaux-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
