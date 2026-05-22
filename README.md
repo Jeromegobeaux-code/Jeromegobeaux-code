@@ -4,7 +4,7 @@ The name's Jérôme. I'm a young graduate of a master in Transmédia Writing. In
 ## 🌱 I'm curently learning... 
 - basic algoritmic logic
 - the fundamental of OO programming with C#
-- 
+  
 ## 🎯 My Goals are...
 - Improving my knowledges of HTML/CSS and starting to learn javascript
 - Starting my journey to become a skill webdev.
