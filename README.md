@@ -1,7 +1,16 @@
 ## Hi there 👋
 The name's Jérôme. I'm a young graduate of a master in Transmédia Writing. In search of new challenges, I'm trying to make my first step in programming. And so this GitHub is there to serv as a archive to showcase my evolution.
 
+## 🌱 I'm curently learning... 
+- basic algoritmic logic
+- the fundamental of OO programming with C#
+- 
+## 🎯 My Goals are...
+- Improving my knowledges of HTML/CSS and starting to learn javascript
+- Starting my journey to become a skill webdev.
+- Getting into game developpement with Godot (just for the fun of the game)
 
+## How to reach me : Send me a email (link in bio) I'll answer ASAP
 <!--
 **Jeromegobeaux-code/Jeromegobeaux-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
