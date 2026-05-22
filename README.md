@@ -10,7 +10,8 @@ The name's Jérôme. I'm a young graduate of a master in Transmédia Writing. In
 - Starting my journey to become a skill webdev.
 - Getting into game developpement with Godot (just for the fun of the game)
 
-## How to reach me : Send me a email (link in bio) I'll answer ASAP
+## How to reach me : 
+You want to ask me something ? Send me a email (link in bio) I'll answer ASAP
 <!--
 **Jeromegobeaux-code/Jeromegobeaux-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
