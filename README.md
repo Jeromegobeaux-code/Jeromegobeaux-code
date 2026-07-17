@@ -2,12 +2,15 @@
 The name's Jérôme. I'm a young graduate of a master in Transmédia Writing. In search of new challenges, I'm trying to make my first step in programming. And so this GitHub is there to serv as a archive to showcase my evolution.
 
 ## 🌱 I'm curently learning... 
-- the fundamental of OO programming with C#
-- the basis of database and SQL
+- DataBase Modeling and SQL
+- OO programmation with JAVA
+- Web developpement
+- TypeScipt and Angular
+
   
 ## 🎯 My Goals are...
-- Improving my knowledges of HTML/CSS and learning javascript
-- Starting my journey to become a skill webdev fullstack.
+- Create small personal project to improve my skills
+- Becomming a skilled fullstack dev
 - Getting into game developpement with Godot (as a hobby)
 
 ## How to reach me : 
