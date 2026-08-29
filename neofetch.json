@@ -1,4 +1,8 @@
 {
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClSrSy94fg7Y6VBv-HfVvCjzl17kfQTea2fOVE5oDAuSUA4wrpvxTEMY&s=10",
+  "sections": [...]
+}
+{
   "sections": [
     {
       "title": "{{username}}@github",
@@ -24,8 +28,8 @@
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
-        { "key": "Website", "value": "https://github.com/{{username}}" },
+        { "key": "Email", "value": "jeromegobeaux.pro@gmail.com" },
+        { "key": "Website", "value": "https://github.com/Jeromegobeaux-code" },
         { "key": "Linkedin", "value": "https://be.linkedin.com/in/j%C3%A9r%C3%B4me-gobeaux" }
       ]
     }
