@@ -6,8 +6,7 @@
         { "key": "Name", "value": "Jérôme" },
         { "key": "Location", "value": "Belgium" },
         { "key": "Created", "value": "{{created}}" },
-        { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Company", "value": "{{company}}" }
+        { "key": "Uptime", "value": "{{uptime}}" }
       ]
     },
     {
