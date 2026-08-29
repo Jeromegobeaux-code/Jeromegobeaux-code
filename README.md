@@ -1,31 +1,13 @@
-## Hi there 👋
-The name's Jérôme. I'm a young graduate of a master in Transmédia Writing. In search of new challenges, I'm trying to make my first step in programming. And so this GitHub is there to serv as a archive to showcase my evolution.
+<div>
+  <h1>About me</h1>
+</div>
+<p align="center">
+  <a href="https://github.com/jeantimex/neofetch-profile">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=Jeromegobeaux-code&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FJeromegobeaux-code%2FJeromegobeaux-code%2Fmain%2Fneofetch.json">
+      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=Jeromegobeaux-code&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FJeromegobeaux-code%2FJeromegobeaux-code%2Fmain%2Fneofetch.json">
+    </picture>
+  </a>
+</p>
 
-## 🌱 I'm curently learning... 
-- DataBase Modeling and SQL
-- OO programmation with JAVA
-- Web developpement
-- TypeScipt and Angular
-
-  
-## 🎯 My Goals are...
-- Create small personal project to improve my skills
-- Becomming a skilled fullstack dev
-- Getting into game developpement with Godot (as a hobby)
-
-## How to reach me : 
-You want to ask me something ? Send me a email (link in bio) I'll answer ASAP
-<!--
-**Jeromegobeaux-code/Jeromegobeaux-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://raw.githubusercontent.com/Jeromegobeaux-code/Jeromegobeaux-code/main/neofetch.json
