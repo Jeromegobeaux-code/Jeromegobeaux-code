@@ -1,10 +1,14 @@
 
 {
+  "image": "https://raw.githubusercontent.com/jeantimex/neofetch-profile/main/public/pikachu.png",
+  "coloredImage": true,
+  "removeBackground": false,
+  "imageScale": 1,
   "sections": [
     {
       "title": "{{username}}@github",
       "fields": [
-        { "key": "Name", "value": "Jérôme" },
+        { "key": "Name", "value": "Jérôme Gobeaux" },
         { "key": "Location", "value": "Belgium" },
         { "key": "Created", "value": "{{created}}" },
         { "key": "Uptime", "value": "{{uptime}}" }
@@ -26,7 +30,7 @@
       "title": "- Contact",
       "fields": [
         { "key": "Email", "value": "jeromegobeaux.pro@gmail.com" },
-        { "key": "Website", "value": "https://github.com/Jeromegobeaux-code" },
+        { "key": "Portfolio", "value": "coming soon" },
         { "key": "Linkedin", "value": "https://be.linkedin.com/in/j%C3%A9r%C3%B4me-gobeaux" }
       ]
     }
