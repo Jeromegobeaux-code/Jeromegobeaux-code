@@ -17,13 +17,13 @@
     {
       "fields": [
         { "key": "Languages", "value": "Java, HTML/CSS, postgresql, C#" },
-        { "key": "IDE", "value": "InteliJ, VScode" }
+        { "key": "IDE", "value": "InteliJ, VScode" },
+         { "key": "Learning", "value": "React, Spring boot" }
       ]
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "WebGL, WebGPU, AI/ML" },
-        { "key": "Hobbies.Hardware", "value": "Mechanical Keyboards" }
+        { "key": "Hobbies", "value": "Video Games, Anime & Manga, Drawing" }
       ]
     },
     {
