@@ -17,8 +17,8 @@
     {
       "fields": [
         { "key": "Languages", "value": "Java, HTML/CSS, postgresql, C#" },
-        { "key": "IDE", "value": "InteliJ, VScode" },
-         { "key": "Learning", "value": "React, Spring boot" }
+        { "key": "IDE", "value": "InteliJ, VScode, WebStorm" },
+         { "key": "Learning", "value": "Angular, Spring boot" }
       ]
     },
     {
