@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Jérôme Gobeaux | Aspiring FullStack Developper</h1>
+  <h1>Jérôme Gobeaux | Java FullStack Developper</h1>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerome-gobeaux)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](/)
